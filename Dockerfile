@@ -10,5 +10,6 @@ COPY . .
 # installation flask
 RUN pip install flask
 
+# command executed
 CMD ["python", "app.py"]
 
