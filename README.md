@@ -40,7 +40,7 @@ The CI/CD workflow is designed to trigger automatically on code changes pushed t
 - Consistent build environment  
 - Easy rollback capability  
 
-### 🚦 How It Works
+###🚦 How It Works
 1. Developer pushes code to GitHub repository.
 2. GitHub Actions workflow triggers automatically.
 3. The pipeline builds and tests the application.
