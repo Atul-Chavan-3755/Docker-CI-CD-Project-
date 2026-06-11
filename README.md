@@ -1,4 +1,4 @@
-## 🚀 CI/CD Pipeline using GitHub Actions
+# CI/CD Pipeline using GitHub Actions
 
 This project demonstrates the implementation of a complete Continuous Integration and Continuous Deployment (CI/CD) pipeline using GitHub Actions. The pipeline automates the build, test, and deployment processes to ensure faster, reliable, and consistent software delivery.
 
